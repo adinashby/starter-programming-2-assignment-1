@@ -1,6 +1,6 @@
-# Programming 2 - Lab 12
+# Programming 2 - Assignment 1
 
-This template repository is the starter project for Programming 2 Lab 12. Written in Java, and tested with Gradle/JUnit.
+This template repository is the starter project for Programming 2 Assignment 1. Written in Java, and tested with Gradle/JUnit.
 
 ### Question(s)
 
