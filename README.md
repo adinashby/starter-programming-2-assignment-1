@@ -4,7 +4,7 @@ This template repository is the starter project for Programming 2 Assignment 1. 
 
 ### Question(s)
 
-1. Create a method `void printShape(int row, char symbol)` that prints a certain pattern displayed as below:
+1. Complete the method `String printShape(int row, char symbol)` that prints a certain pattern displayed as below:
 
 (Note, for all `printShape` methods, you allow to use for loop to print a row, but you should only use recursion to shift from one row to another)
 
